@@ -1,0 +1,19 @@
+Exusiai,s3m2,s3m3
+Surtr,s3m2,s3m3
+Angelina,s3m2,s3m3
+Ash,e2,s2m1,s2m2,s3m3
+Eyjafjalla,s2m1,s3m1,s3m2,s3m3
+Ifrit,s3m1,s3m2,s3m3
+Saria,s3m1,s3m2,s3m3,s1m2m,s3m3
+Saga,s2m1,s3m1,s3m2,s3m3
+Nightingale,e2
+Ptilopsis,e2
+SilverAsh,e1,e2,s3m1,s3m2,s3m3
+Specter,e1,e2,s2m1,s2m2,s2m3
+Shamare,e1,e2,s2m1,s2m2,s2m3
+Phantom,e2,s2m1,s2m2,s2m3
+Blaze,e1,e2,s2m1,s2m2,s2m3
+Skadi the Corrupting Heart,e1,e2,s2m1,s2m2,s2m3,s3m1,s3m2,s3m3
+Bagpipe,e1,e2,s3m1,s3m2,s3m3
+Amiya,e2
+Myrtle,e2,s1m1,s1m2,s1m3
