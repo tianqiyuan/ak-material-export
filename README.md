@@ -21,6 +21,8 @@ For a concrete example, let's say I want to farm Exusiai from E1 skill level 7 t
 
 `Exusiai,e2,s3m1,s3m2,s3m3`
 
+## License
+Only the code is under MIT license, not the data. 
 
 ## Credits
 
