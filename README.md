@@ -1,6 +1,6 @@
 # Arknights Material Export
 
-A grimy Jupyter notebook for exporting your operator farming plans to [Penguin-stats planner](https://penguin-stats.io/planner), with more planners to come.
+A grimy Jupyter notebook for exporting operator farming plans to [Penguin-stats planner](https://penguin-stats.io/planner), with more planners to come.
 The initial implementation is incomplete, and only supports elite promotions + skill mastery costs.
 
 ## Usage
