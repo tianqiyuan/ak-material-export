@@ -4,7 +4,8 @@ A grimy Jupyter notebook for exporting operator farming plans to [Penguin-stats 
 The initial implementation is incomplete, and only supports elite promotions + skill mastery costs.
 
 ## Dependencies
-`bidict`
+- Python 3.9. 3.7+ should suffice.
+- [bidict](https://github.com/jab/bidict)
 
 ## Usage
 
